@@ -1,6 +1,7 @@
 Esta es una historia
 
-de como aprender git github
+de como seguir aprendiendo git github
+excelente
 
 
 Carlos Federico Guardado Escobar
