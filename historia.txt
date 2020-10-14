@@ -6,5 +6,10 @@ Este es un gran cachimbon
 hoy es un gran ingeniero
 
 master 1
+<<<<<<< HEAD
 master 2
+=======
+Experimento
+Experimento 2
+>>>>>>> a2190fe... Experimentos 1 y 2
 Carlos Federico Guardado Escobar
